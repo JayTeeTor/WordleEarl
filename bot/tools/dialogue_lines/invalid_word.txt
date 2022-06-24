@@ -1,0 +1,8 @@
+*Looks up from dictionary* Nope. I don't see that one.. is this it? No, nvm. Not a word
+I don't even need to run that function to know thats not a word lmao
+I tried pushing that in as a parameter but the compiler literally laughed at me. That is *NOT* a word.
+Not a word.. I think. I only have 400,000 to match against.
+I matched this against nearly 400,000 words, and you had to be a linguistic hipster and invent your own...
+That's a joke right..? Oh god you're serious. No, that is not a word.
+*eyes you up and down* I am NOT wasting an API call on that "word". 
+This is not a valid word in this wordle turtle worldle

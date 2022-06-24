@@ -1,0 +1,8 @@
+
+.env
+notes.txt
+__pycache__/wordle.cpython-37.pyc
+tools/__pycache__/regex_helper.cpython-37.pyc
+tools/__pycache__/regex_helper.cpython-37.pyc
+*.pyc
+__pycache__/wordle.cpython-37.pyc
